@@ -1,1 +1,2 @@
-# freecodecamp-javascript-
+# freecodecamp-javascript
+JavaScript_data_structure_and_algorithms
